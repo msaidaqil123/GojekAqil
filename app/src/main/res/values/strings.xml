@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gojek Aqil</string>
+    <string name="go_car">go_car</string>
+    <string name="go_food">go_food</string>
+    <string name="go_ride">go_ride</string>
+    <string name="go_send">go_send</string>
+</resources>
